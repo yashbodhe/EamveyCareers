@@ -1,5 +1,5 @@
 # EamveyCareers
-Front-end of  EamveyCareers which is a virtual learning and training platform setup.
+Front-end Website Project for EamveyCareers, Internship project using HTML5 , CSS3 , JavaScript , JQuery
 
 
 
