@@ -4,7 +4,8 @@ Front-end of  EamveyCareers which is a virtual learning and training platform se
 
 
 ## About The Project
-
+Eamvey Careers is a virtual learning and training platform setup in assistance with Eamvey to enable students all over India to enhance their knowledge in terms of the job they are going to perform in future. Get in connection with the community of young minds to explore a different version of learning and upskilling
+through one of the best virtual platform.
 ### Home
 <img src="../master/img/ss/Screenshot%20(111).png"  width="512" height="256" />
 
